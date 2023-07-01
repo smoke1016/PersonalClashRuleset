@@ -6,19 +6,5 @@ DOMAIN-SUFFIX,f95zone.to
 DOMAIN-SUFFIX,kubernetes.io
 DOMAIN-SUFFIX,typingclub.com
 DOMAIN-SUFFIX,18comic.vip
-# OpenAI
-DOMAIN-SUFFIX,vimeocdn.com
-DOMAIN-SUFFIX,hcaptcha.com
-DOMAIN-SUFFIX,akamaized.net
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,chat.openai.com
-DOMAIN-SUFFIX,vimeo.com
-DOMAIN-SUFFIX,googletagmanager.com
-DOMAIN-SUFFIX,f7tk.com
-DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,google-analytics.com
-DOMAIN-SUFFIX,ai.com
 # groupme
 DOMAIN-SUFFIX,groupme.com
