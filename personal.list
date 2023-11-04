@@ -7,9 +7,14 @@ DOMAIN-SUFFIX,kubernetes.io
 DOMAIN-SUFFIX,typingclub.com
 DOMAIN-SUFFIX,18comic.vip
 DOMAIN-SUFFIX,akamai-video-content.com
-DOMAIN-SUFFIX,mypikpak.com
-DOMAIN-SUFFIX,mypikpak.net
-DOMAIN-SUFFIX,pikpakdrive.com
+# NAME: PikPak
+DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
+DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
+DOMAIN-SUFFIX,hub5pn.wap.sandai.net
+DOMAIN-SUFFIX,hub5pnc.sandai.net
+DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
+DOMAIN-SUFFIX,hubciddata.sandai.net
+DOMAIN-KEYWORD,mypikpak
 # groupme
 DOMAIN-SUFFIX,groupme.com
 # game
